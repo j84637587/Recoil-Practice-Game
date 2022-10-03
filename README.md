@@ -1,4 +1,4 @@
-# Facebook-Screenshot
+# Recoil-Practice-Game
 此專案利用pygame製作遊戲Apex Legends中，槍械開火後座力練習遊戲。
 
 使用的後座力表為槍械在靶場紀錄10次的槍孔位置並平均後的後座力表
